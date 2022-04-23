@@ -23,8 +23,9 @@
 > Connected the React App with the Smart Contract Using etherjs
 > Link: https://github.com/TeamResilient/Nestcoin/pull/28
 ### 7. Created a New Frontend
-> Built a newer frontend with Multipages
+> Built a newer frontend with Multipages with boostrap and reactjs
 > Connected the React App with the Smart Contract Using etherjs
+> Created the algorithm to for CSV uploading.
 >Link: https://github.com/TeamResilient/Nestcoin/pull/44
 
 
@@ -49,6 +50,7 @@
 ### 1. Singlehandedly Created the Frontend and Optimized Contract
 > Created and designed the front end using Tailwind Css and Reactjs
 > Connected the Frontend with the smart contract using etherjs
+> Created the algorithm to for CSV uploading.
 > Contributed to smart contract optimization for lower gas usage
 > Link: https://github.com/Blockgames-TeamB/ZuriSchool/pull/31
 > 
